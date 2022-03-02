@@ -21,7 +21,7 @@ $ sudo pacman -S gcc
 
 ### Build
 ```
-$ https://github.com/DennisLovkvist/game_of_life_shader.git
+$ git clone https://github.com/DennisLovkvist/game_of_life_shader.git
 $ cd game_of_life_shader
 $ ./build.sh
 ```
